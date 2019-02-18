@@ -1,5 +1,5 @@
 # Git test
 
--branch A
+- branch A
 - fix B
-
+- feature C
